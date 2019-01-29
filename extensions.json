@@ -1,0 +1,19 @@
+{
+    "html": "text/html",
+    "txt": "text/plain",
+    "css": "text/css",
+    "gif": "image/gif",
+    "ico": "image/x-icon",
+    "jpg": "image/jpeg",
+    "js": "application/javascript",
+    "json": "application/json",
+    "png": "image/png",
+    "svg": "image/svg+xml",
+    "ttf": "font/ttf",
+    "wav": "audio/wav",
+    "xml": "application/xml",
+    "map": "application/octet-stream",
+    "log": "text/x-log",
+    "woff": "application/font-woff",
+    "woff2": "application/font-woff"
+}

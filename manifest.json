@@ -1,0 +1,18 @@
+{
+  "name": "Flash Parody thing",
+  "short_name": "Flash Parody",
+  "start_url": "./embed.html",
+  "display": "standalone",
+  "background_color": "#ff3f00",
+  "description": "DC Flash Parody Thing",
+  "icons": [{
+    "src": "./icon192.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  },{
+    "src": "./icon512.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }],
+  "related_applications": []
+}

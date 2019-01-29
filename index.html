@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>DC Flash Parody</title>
+<link rel="manifest" href="./manifest.json">
+<style>
+body {
+    background-color: #ff3f00;
+    padding: 0;
+    margin: 0;
+}
+@media screen and (orientation: portrait) {
+  #pagewidth {
+    width: 100vw;
+  }
+}
+@media screen and (orientation: landscape) {
+  #pagewidth {
+    height: 100vh;
+  }
+}
+#embed {
+    position: fixed;
+    bottom: 1em;
+    width: 100vw;
+}
+#embed a {
+    width: 100vw;
+    display: block;
+    text-align: center;
+    height: calc(5vh + 0.25em);
+    font-size: 5vh;
+    background-color: #fff;
+    border: 1px solid #000;
+}
+</style>
+</head>
+<body>
+
+<img src="icon512.png" id="pagewidth"></img>
+<div id="embed"><a href="add.html">Add to home screen</a></div>
+
+</body>
+</html>
